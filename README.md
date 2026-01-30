@@ -43,7 +43,7 @@ trained optimal machine learning models saved as .pkl files, and
 internal cross-validation and external validation workflows, including performance evaluation and statistical analysis.
 
 
-#### Summary of provided contents
+### Summary of provided contents
 
 This repository provides:
 
@@ -58,7 +58,7 @@ trained optimal models (.pkl), and
 all scripts required to reproduce the model training and validation results reported in the manuscript.
 
 
-#### Citation
+### Citation
 
 If you use the data or codes in this repository, please cite the following manuscript:
 
